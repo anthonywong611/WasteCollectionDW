@@ -8,6 +8,8 @@ This is a small project where I designed a data warehouse using star schema to m
 
 ## SQL Query
 
-- ![exercise_2.sql]: an initial failed attempt to model the business case. 
-- exercise_3.sql: create dimensional tables for date, truck, and station. Also create a fact table for waste collection trip. 
-- exercise_4.sql: performed aggregated queries like CUBE and ROLLUP.
+- [exercise_2.sql](exercise_2.sql): An initial failed attempt to model the business case. 
+- [exercise_3.sql](exercise_3.sql): Create dimensional tables for date, truck, and station. Also create a fact table for waste collection trip. 
+- [exercise_4.sql](exercise_4.sql): Performed aggregated queries like CUBE and ROLLUP.
+- [waste.sql](waste.sql): A dump file for rebuilding the database and its tables from the command line.
+- [query.sql](query.sql): Create a materialized view and export it as a csv for visualization.
