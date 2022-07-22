@@ -4,7 +4,7 @@ This is a small project where I designed a data warehouse using star schema to m
 
 ## Entity-Relationship Diagram (ERD)
 
-![](images/ERD.png)
+![](images/waste_ERD.PNG)
 
 ## SQL Query
 
